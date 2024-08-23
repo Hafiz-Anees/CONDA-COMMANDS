@@ -1,3 +1,10 @@
+# HOW TO INSTALL
+
+[For 32 bit](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe) 
+
+[For 64 bit](https://docs.anaconda.com/miniconda/)
+
+
 # conda commands
 
 ### 1-how to create conda env
